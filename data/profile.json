@@ -1,0 +1,13 @@
+{
+  "name": "Anish Kumar Gupta",
+  "title": "Data Analyst | Machine Learning Engineer",
+  "location": "Lancaster, UK",
+  "email": "anishgupta.u.26@gmail.com",
+  "summary": "Data professional with experience in analytics and machine learning. I build models and dashboards that turn raw data into decisions. Replace this with 2-3 sentences about you.",
+  "links": {
+    "GitHub": "https://github.com/your-username",
+    "LinkedIn": "https://www.linkedin.com/in/anish-gupta-analytics-digital/"
+  },
+  "resume_file": "resume.pdf",
+  "photo": "photo.jpg"
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "role": "Manager – SME, Digital & Data Science",
+    "company": "Hindalco Industries Ltd., Aditya Birla Group",
+    "location": "India",
+    "type": "Full-time",
+    "period": "Aug 2022 – Sep 2026 (company tenure)",
+    "summary": "Led analytics strategy, digital twins and the process-data platform for the smelter business unit.",
+    "points": [
+      "**Analytics strategy & AI/ML ROI framework:** Defined the unit's analytics strategy and led the Digital Track focus group to build its roadmap. Developed a Business Impact and ROI methodology with Finance and senior leadership (baselines, cost-benefit modelling, sensitivity analysis) to standardise how smelter AI/ML initiatives are evaluated, ranked and funded.",
+      "**Pot digital twin solutions:** Led multiple digital twins for electrolysis cells, owning problem framing, feature engineering, model selection, deployment and monitoring, and validating outputs with process engineers. In a 16-pot trial, reduced Bath Temperature standard deviation by 32% and moved the mean from 954°C to 951°C against a 950°C target.",
+      "**PI System, data catalogue & report automation:** Led the OSI / AVEVA PI System implementation to replace data scattered across 15+ standalone servers and databases, defining tag structure and asset framework with IT/OT and plant teams. Created a real-time time-series foundation for analytics and the digital twin, automated manual reports, and built a self-service data catalogue that removed repeated ad hoc data requests.",
+      "**Digital Ambassador & change management (volunteer):** Mentored 15 colleagues and 200+ new joiners through training and awareness sessions on digitalisation and emerging technology, and wrote SOP guides for new software."
+    ],
+    "tools": ["Python", "SQL", "OSI / AVEVA PI", "Digital Twin", "Feature Engineering", "ROI Modelling"]
+  },
+  {
+    "role": "Assistant Manager – TM Data Analytics",
+    "company": "Hindalco Industries Ltd., Aditya Birla Group",
+    "location": "India",
+    "type": "Full-time",
+    "period": "Earlier role at Hindalco",
+    "summary": "Built optimisation models, data pipelines and reporting automation for plant operations, planning and finance.",
+    "points": [
+      "**Hot metal product-mix optimisation:** Built a greedy-heuristic optimisation model in Python and SQL, translating capacity constraints, margins and demand forecasts into model inputs. Identified ~$640K/year (~£500K) in opportunity cost and presented findings to production and marketing stakeholders.",
+      "**ETL redevelopment & reliability:** Rebuilt a slow, failure-prone legacy ETL as a fail-safe ELT pipeline with automated data quality checks (completeness, duplicates, schema, range), retry logic, failure alerts and run monitoring. Cut service requests, ingestion time and storage use by 30% each.",
+      "**EDA & root cause analysis:** Profiled and cleaned disconnected billing, electrolysis process, LIMS and production data, handling sensor gaps, late-arriving records and unit mismatches. Gave the department head a trusted dataset for root cause analysis; lead time fell by 60% after automation.",
+      "**KPI reporting automation:** Automated 15+ KPI dashboards and reports with the data engineering, finance and operations teams, cutting reporting effort by 70%."
+    ],
+    "tools": ["Python", "SQL", "Power BI", "ELT", "Optimisation", "EDA"]
+  },
+  {
+    "role": "Graduate Engineer Trainee – Engineering Leadership Program",
+    "company": "Aditya Birla Group",
+    "location": "India",
+    "type": "Trainee programme",
+    "period": "Sep 2022 – Aug 2023",
+    "summary": "",
+    "points": [
+      "Rotated through the aluminium value chain, from mining and refining to the power plant, smelter and downstream rolled and foil products, building an end-to-end view of how process data and costs flow between stages.",
+      "Worked hands-on in the coal handling plant and coal management, learning plant operations, material flow, shift-level production practices and maintenance planning."
+    ],
+    "tools": []
+  },
+  {
+    "role": "Technical Trainee – Operational Excellence (FTO-7)",
+    "company": "Dr. Reddy's Laboratories",
+    "location": "India",
+    "type": "Trainee",
+    "period": "Jan 2022 – Jun 2022",
+    "summary": "",
+    "points": [
+      "Supported the unit's TPM and autonomous maintenance programme, taking ownership of its digital device and updating its modules.",
+      "Created 10+ One Point Lessons and documentation on autonomous maintenance of equipment and machines.",
+      "Applied 5 Whys and Fishbone (Ishikawa) analysis to find root causes of recurring issues."
+    ],
+    "tools": ["TPM", "5 Whys", "Fishbone Analysis"]
+  }
+]

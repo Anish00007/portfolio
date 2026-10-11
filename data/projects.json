@@ -1,0 +1,37 @@
+[
+  {
+    "title": "MSME Bill Payment Days Prediction & Bill Analytics",
+    "category": "Machine Learning · MBA Dissertation",
+    "description": "Machine learning payment-days prediction system combined with bill and spend analytics to flag delayed MSME payments and give finance teams data-driven insights. Reduced delayed payments from 30% to 5% and helped unlock about GBP 20 thousand in cash flow.",
+    "tools": ["Machine Learning", "Predictive Analytics", "Bill Analytics"],
+    "link": ""
+  },
+  {
+    "title": "Pot Digital Twin for Electrolysis Cells",
+    "category": "Industrial AI",
+    "description": "Predictive digital twin for smelter pots, taking the work from problem framing to deployment and monitoring. In a 16-pot trial, Bath Temperature variation fell by 32% and the mean moved from 954°C to 951°C (target 950°C).",
+    "tools": ["Feature Engineering", "Model Deployment", "Monitoring"],
+    "link": ""
+  },
+  {
+    "title": "Hot Metal Product-Mix Optimisation",
+    "category": "Optimisation",
+    "description": "Greedy-heuristic model turning capacity constraints, margins and demand forecasts into the most profitable product mix. Identified ~$640K/year (~£500K) in opportunity cost.",
+    "tools": ["Python", "SQL", "Optimisation"],
+    "link": ""
+  },
+  {
+    "title": "PI System Implementation & Self-Service Data Catalogue",
+    "category": "Data Engineering",
+    "description": "Consolidated data from 15+ standalone servers into a real-time OSI / AVEVA PI System, automated manual reports and built a metadata-rich data catalogue for self-service access.",
+    "tools": ["OSI / AVEVA PI", "Asset Framework", "Data Catalogue"],
+    "link": ""
+  },
+  {
+    "title": "Fail-Safe ELT Pipeline Redevelopment",
+    "category": "Data Engineering",
+    "description": "Replaced a legacy ETL with an ELT pipeline featuring automated data quality checks, retries, alerts and monitoring. Cut service requests, ingestion time and storage by 30% each.",
+    "tools": ["Python", "SQL", "ELT", "Data Quality"],
+    "link": ""
+  }
+]

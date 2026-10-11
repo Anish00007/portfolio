@@ -1,0 +1,7 @@
+{
+  "Machine Learning & Evaluation": ["Machine Learning Fundamentals", "Model Evaluation & Benchmarking", "Performance Metrics", "Error & Data Validation Automation", "Experiment Tracking (MLflow)", "Training & Inference Data Analysis"],
+  "Quantitative Methods": ["Regression", "Statistical Modelling", "Predictive Analytics", "Optimisation", "Time-Series Analysis", "Monte Carlo Simulation", "Hypothesis Testing", "Benchmark-Oriented Analysis"],
+  "Programming & Analytics": ["Python", "SQL", "Pandas", "Scikit-learn", "Matplotlib", "Plotly", "RDBMS", "Non-RDBMS"],
+  "Data Engineering & Platforms": ["ETL/ELT", "Apache Airflow", "MLflow", "MinIO", "JupyterLab", "Power BI", "Streamlit", "OSI / AVEVA PI System"],
+  "Leadership": ["Stakeholder Management", "Cross-functional Collaboration", "Decision-Making & Ownership", "Continuous Improvement", "Change Management", "Data Storytelling"]
+}
